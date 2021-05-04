@@ -5,6 +5,8 @@
 shinyMCE adds the ability to use tinyMCE WYSIWYG editor as a component
     in Shiny apps.
 
+NOTE: this fork uses the embedded TinyMCE (which is version 4) and not the CDN one.
+
 To install, run:
 
 ```r
